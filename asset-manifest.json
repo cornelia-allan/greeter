@@ -1,0 +1,14 @@
+{
+  "main.css": "/greeter/static/css/main.603e0265.chunk.css",
+  "main.js": "/greeter/static/js/main.ac3683ee.chunk.js",
+  "main.js.map": "/greeter/static/js/main.ac3683ee.chunk.js.map",
+  "static/js/1.2dd891c4.chunk.js": "/greeter/static/js/1.2dd891c4.chunk.js",
+  "static/js/1.2dd891c4.chunk.js.map": "/greeter/static/js/1.2dd891c4.chunk.js.map",
+  "runtime~main.js": "/greeter/static/js/runtime~main.2c326441.js",
+  "runtime~main.js.map": "/greeter/static/js/runtime~main.2c326441.js.map",
+  "static/media/logo.svg": "/greeter/static/media/logo.ee7cd8ed.svg",
+  "static/css/main.603e0265.chunk.css.map": "/greeter/static/css/main.603e0265.chunk.css.map",
+  "index.html": "/greeter/index.html",
+  "precache-manifest.9d88cdbcf699e64cedc7b080d78ea929.js": "/greeter/precache-manifest.9d88cdbcf699e64cedc7b080d78ea929.js",
+  "service-worker.js": "/greeter/service-worker.js"
+}
